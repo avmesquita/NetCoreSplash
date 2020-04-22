@@ -1,0 +1,2 @@
+# NetCoreSplash
+Test purposes
