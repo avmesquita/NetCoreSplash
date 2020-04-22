@@ -5,9 +5,15 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreSplash.App", "NetCoreSplash.App\NetCoreSplash.App.csproj", "{38A48C91-9064-4BF1-B734-D1F9F5998A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreSplash.APImenta", "NetCoreSplash.APImenta\NetCoreSplash.APImenta.csproj", "{C718C733-B462-4C15-BAD5-174D09AC460F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreSplash.APImenta", "NetCoreSplash.APImenta\NetCoreSplash.APImenta.csproj", "{C718C733-B462-4C15-BAD5-174D09AC460F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreSplash.Entity", "NetCoreSplash.Entity\NetCoreSplash.Entity.csproj", "{B6DF1D73-A56B-4453-936A-08C0479D7490}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4D80AEC-BBE6-4587-9ABD-AE0AFE1150EA}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
