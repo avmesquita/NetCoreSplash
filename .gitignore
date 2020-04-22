@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/NetCoreSplash/v16
+/NetCoreSplash.APImenta/bin/Debug/netcoreapp3.1
+/NetCoreSplash.APImenta/obj
+/NetCoreSplash.APImenta/NetCoreSplash.APImenta.csproj.user
+/NetCoreSplash.App/bin/Debug/netcoreapp3.1
+/NetCoreSplash.App/obj
+/NetCoreSplash.App/NetCoreSplash.App.csproj.user
+/NetCoreSplash.Entity/bin/Debug/netcoreapp3.1
+/NetCoreSplash.Entity/obj/Debug/netcoreapp3.1
+/NetCoreSplash.Entity/obj
