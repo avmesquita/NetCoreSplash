@@ -12,3 +12,5 @@
 /NetCoreSplash.Entity/bin/Debug/netcoreapp3.1
 /NetCoreSplash.Entity/obj/Debug/netcoreapp3.1
 /NetCoreSplash.Entity/obj
+/.vs/NetCoreSplash
+/NetCoreSplash.App/bin/Release/netcoreapp3.1
